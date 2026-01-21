@@ -1,0 +1,51 @@
+name: 更新口岸数据
+
+on:
+  schedule:
+    # 每3分钟执行一次
+    - cron: '*/3 * * * *'
+  workflow_dispatch: # 允许手动触发
+
+# 添加写入权限
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 执行 ka-api-client.js
+        run: node ka-api-client.js
+        continue-on-error: true
+
+      - name: 执行 ka-cctv-client.js
+        run: node ka-cctv-client.js
+        continue-on-error: true
+
+      - name: 检查文件变化
+        id: check_changes
+        run: |
+          git diff --quiet port-data.json cctv-data.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: 提交并推送更改
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add port-data.json cctv-data.json
+          git commit -m "chore: 自动更新口岸数据 $(date +'%Y-%m-%d %H:%M:%S')"
+          git push

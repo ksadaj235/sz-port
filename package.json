@@ -1,0 +1,17 @@
+{
+  "name": "ka-api-client",
+  "version": "1.0.0",
+  "description": "深圳口岸通 API 加密客户端",
+  "main": "ka-api-client.js",
+  "scripts": {
+    "start": "node ka-api-client.js",
+    "test": "node ka-api-client.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "sm-crypto": "^0.3.13"
+  },
+  "keywords": ["sm2", "sm3", "sm4", "encryption", "api-client"],
+  "author": "",
+  "license": "MIT"
+}

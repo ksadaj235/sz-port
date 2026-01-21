@@ -2,8 +2,8 @@ name: 更新口岸数据
 
 on:
   schedule:
-    # 每3分钟执行一次
-    - cron: '*/3 * * * *'
+    # 每5分钟执行一次（GitHub Actions 最小支持间隔）
+    - cron: '*/5 * * * *'
   workflow_dispatch: # 允许手动触发
 
 

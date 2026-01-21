@@ -301,10 +301,26 @@ async function main() {
                 console.log(`${index + 1}. ${port.portName} - ${port.smoothness || '未知'}`);
             });
 
+            // 清理敏感数据：将所有 appId 置为空字符串
+            const cleanData = JSON.parse(JSON.stringify(result));
+            const clearAppId = (obj) => {
+                if (typeof obj === 'object' && obj !== null) {
+                    if (Array.isArray(obj)) {
+                        obj.forEach(item => clearAppId(item));
+                    } else {
+                        if ('appId' in obj) {
+                            obj.appId = '';
+                        }
+                        Object.values(obj).forEach(value => clearAppId(value));
+                    }
+                }
+            };
+            clearAppId(cleanData);
+
             // 保存到文件
             const fs = require('fs');
             const outputPath = require('path').join(__dirname, 'port-data.json');
-            fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+            fs.writeFileSync(outputPath, JSON.stringify(cleanData, null, 2), 'utf8');
             console.log('\n数据已保存到 port-data.json\n');
         }
     } catch (error) {

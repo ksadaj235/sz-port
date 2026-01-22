@@ -965,12 +965,12 @@
       "portCode": "44030400421742000002",
       "trafficNearby": null,
       "linkId": "1719912127549931520",
-      "smoothness": "非通关时间",
+      "smoothness": "畅通",
       "entryAndExitJson": "[{\"name\":\"皇岗口岸临时旅检楼南广场通道（入境人车流动线）\",\"code\":\"6c9b30beb33b41e2a8c451c3b18c4ba7\",\"type\":\"2\"},{\"name\":\"皇岗口岸临时旅检楼南侧入境大厅（入境人流动线）\",\"code\":\"c3c79b09e1164fe7b28e4d8fbfcdac9d\",\"type\":\"2\"},{\"name\":\"皇岗口岸临时旅检楼北广场通道（出境人车流动线）\",\"code\":\"83f927f300fb46769f094bf927093ee4\",\"type\":\"1\"},{\"name\":\"皇岗口岸临时旅检楼北侧出境大厅（出境人流动线）\",\"code\":\"fdea1721a77f446593a1e8d4f388d32b\",\"type\":\"1\"}]",
-      "exit": "非通关时间",
-      "entry": "非通关时间",
-      "exitClearanceTime": "--",
-      "entryClearanceTime": "--",
+      "exit": "畅通",
+      "entry": "畅通",
+      "exitClearanceTime": "13分钟",
+      "entryClearanceTime": "12分钟",
       "portServiceVos": [
         {
           "id": "1714931089404854272",

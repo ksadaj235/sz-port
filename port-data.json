@@ -56,9 +56,9 @@
       "smoothness": "正常",
       "entryAndExitJson": "[{\"name\":\"罗湖口岸一号门北广场通道（入境人流动线）\",\"code\":\"dbe9cbacbfec49f4ba74f195b71daf58\",\"type\":\"2\"},{\"name\":\"罗湖口岸旅检楼入境1号门出口通道（入境人流动线）\",\"code\":\"5a89bced68864e0b976d3973236a8972\",\"type\":\"2\"},{\"name\":\"罗湖口岸旅检楼3楼出境南侧通道(出境人流动线）\",\"code\":\"97f327b35a184aa2abc438fd28cbdf67\",\"type\":\"1\"},{\"name\":\"罗湖口岸旅检楼出境2楼罗湖商业桥通道（出境人流动线）\",\"code\":\"a8bbff95ac174b2ea6c243421e4ed0f2\",\"type\":\"1\"}]",
       "exit": "正常",
-      "entry": "正常",
+      "entry": "畅通",
       "exitClearanceTime": "12分钟",
-      "entryClearanceTime": "15分钟",
+      "entryClearanceTime": "13分钟",
       "portServiceVos": [
         {
           "id": "1727138205200809984",
@@ -965,12 +965,12 @@
       "portCode": "44030400421742000002",
       "trafficNearby": null,
       "linkId": "1719912127549931520",
-      "smoothness": "正常",
+      "smoothness": "缓行",
       "entryAndExitJson": "[{\"name\":\"皇岗口岸临时旅检楼南广场通道（入境人车流动线）\",\"code\":\"6c9b30beb33b41e2a8c451c3b18c4ba7\",\"type\":\"2\"},{\"name\":\"皇岗口岸临时旅检楼南侧入境大厅（入境人流动线）\",\"code\":\"c3c79b09e1164fe7b28e4d8fbfcdac9d\",\"type\":\"2\"},{\"name\":\"皇岗口岸临时旅检楼北广场通道（出境人车流动线）\",\"code\":\"83f927f300fb46769f094bf927093ee4\",\"type\":\"1\"},{\"name\":\"皇岗口岸临时旅检楼北侧出境大厅（出境人流动线）\",\"code\":\"fdea1721a77f446593a1e8d4f388d32b\",\"type\":\"1\"}]",
       "exit": "畅通",
-      "entry": "正常",
+      "entry": "缓行",
       "exitClearanceTime": "13分钟",
-      "entryClearanceTime": "19分钟",
+      "entryClearanceTime": "34分钟",
       "portServiceVos": [
         {
           "id": "1714931089404854272",

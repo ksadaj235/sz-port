@@ -2800,8 +2800,8 @@
       "entryAndExitJson": "[{\"name\":\"西九龙站口岸B3层入境公众大厅（入境人流动线） \",\"code\":\"6d7639c36444407e8067d49fffc23434\",\"type\":\"2\"},{\"name\":\"西九龙站口岸入境公众大厅（入境人流动线）\",\"code\":\"3b7ea92aebde46b8a2fa358452cc28d4\",\"type\":\"2\"},{\"name\":\"西九龙站口岸B2层出境公众大厅（出境人流动线）  \",\"code\":\"fda4ef387005489595b885777e93df4a\",\"type\":\"1\"}]",
       "exit": "畅通",
       "entry": "畅通",
-      "exitClearanceTime": "4分钟28秒",
-      "entryClearanceTime": "11分钟30秒",
+      "exitClearanceTime": "7分钟43秒",
+      "entryClearanceTime": "11分钟17秒",
       "portServiceVos": [
         {
           "id": "1727139360194691072",

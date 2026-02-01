@@ -1821,11 +1821,11 @@
       "portCode": "44030400421742000001",
       "trafficNearby": null,
       "linkId": "1719912127549931520",
-      "smoothness": "畅通",
+      "smoothness": "正常",
       "entryAndExitJson": "[{\"name\":\"福田口岸西广场东北角（入境人流动线）\",\"code\":\"bb30737ffccd424198c47c999db36ef4\",\"type\":\"2\"},{\"name\":\"福田口岸旅检楼入境桥头（入境人流动线）\",\"code\":\"1fc33d8f2ebb42f38db3fa7729905a7d\",\"type\":\"2\"},{\"name\":\"福田口岸北广场西北角（出境人流动线）\",\"code\":\"aed4ebcc235f4976b4c8e0e3cdb3994c\",\"type\":\"1\"},{\"name\":\"福田口岸旅检楼三层出境通道（出境人流动线）\",\"code\":\"bcb08e0edf264aec851cae5a784fcaa6\",\"type\":\"1\"}]",
-      "exit": "畅通",
+      "exit": "正常",
       "entry": "畅通",
-      "exitClearanceTime": "9分钟",
+      "exitClearanceTime": "11分钟",
       "entryClearanceTime": "13分钟",
       "portServiceVos": [
         {
@@ -2800,8 +2800,8 @@
       "entryAndExitJson": "[{\"name\":\"西九龙站口岸B3层入境公众大厅（入境人流动线） \",\"code\":\"6d7639c36444407e8067d49fffc23434\",\"type\":\"2\"},{\"name\":\"西九龙站口岸入境公众大厅（入境人流动线）\",\"code\":\"3b7ea92aebde46b8a2fa358452cc28d4\",\"type\":\"2\"},{\"name\":\"西九龙站口岸B2层出境公众大厅（出境人流动线）  \",\"code\":\"fda4ef387005489595b885777e93df4a\",\"type\":\"1\"}]",
       "exit": "畅通",
       "entry": "畅通",
-      "exitClearanceTime": "5分钟40秒",
-      "entryClearanceTime": "13分钟11秒",
+      "exitClearanceTime": "6分钟52秒",
+      "entryClearanceTime": "11分钟31秒",
       "portServiceVos": [
         {
           "id": "1727139360194691072",

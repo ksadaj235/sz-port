@@ -12,25 +12,25 @@
         "name": "罗湖口岸一号门北广场通道（入境人流动线）",
         "code": "dbe9cbacbfec49f4ba74f195b71daf58",
         "type": "入境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/dbe9cbacbfec49f4ba74f195b71daf58-20260202000302.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/dbe9cbacbfec49f4ba74f195b71daf58-20260202003758.png"
       },
       {
         "name": "罗湖口岸旅检楼入境1号门出口通道（入境人流动线）",
         "code": "5a89bced68864e0b976d3973236a8972",
         "type": "入境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/5a89bced68864e0b976d3973236a8972-20260202000304.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/5a89bced68864e0b976d3973236a8972-20260202003758.png"
       },
       {
         "name": "罗湖口岸旅检楼3楼出境南侧通道(出境人流动线）",
         "code": "97f327b35a184aa2abc438fd28cbdf67",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/97f327b35a184aa2abc438fd28cbdf67-20260202000304.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/97f327b35a184aa2abc438fd28cbdf67-20260202003758.png"
       },
       {
         "name": "罗湖口岸旅检楼出境2楼罗湖商业桥通道（出境人流动线）",
         "code": "a8bbff95ac174b2ea6c243421e4ed0f2",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/a8bbff95ac174b2ea6c243421e4ed0f2-20260202000300.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/a8bbff95ac174b2ea6c243421e4ed0f2-20260202003758.png"
       }
     ]
   },
@@ -88,25 +88,25 @@
         "name": "皇岗口岸临时旅检楼南广场通道（入境人车流动线）",
         "code": "6c9b30beb33b41e2a8c451c3b18c4ba7",
         "type": "入境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/6c9b30beb33b41e2a8c451c3b18c4ba7-20260202000255.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/6c9b30beb33b41e2a8c451c3b18c4ba7-20260202003647.png"
       },
       {
         "name": "皇岗口岸临时旅检楼南侧入境大厅（入境人流动线）",
         "code": "c3c79b09e1164fe7b28e4d8fbfcdac9d",
         "type": "入境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/c3c79b09e1164fe7b28e4d8fbfcdac9d-20260202000255.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/c3c79b09e1164fe7b28e4d8fbfcdac9d-20260202003729.png"
       },
       {
         "name": "皇岗口岸临时旅检楼北广场通道（出境人车流动线）",
         "code": "83f927f300fb46769f094bf927093ee4",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/83f927f300fb46769f094bf927093ee4-20260202000255.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/83f927f300fb46769f094bf927093ee4-20260202003730.png"
       },
       {
         "name": "皇岗口岸临时旅检楼北侧出境大厅（出境人流动线）",
         "code": "fdea1721a77f446593a1e8d4f388d32b",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/fdea1721a77f446593a1e8d4f388d32b-20260202000220.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/fdea1721a77f446593a1e8d4f388d32b-20260202003730.png"
       }
     ]
   },

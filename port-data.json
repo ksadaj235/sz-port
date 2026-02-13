@@ -1393,12 +1393,12 @@
       "portCode": "44030599921742000000",
       "trafficNearby": null,
       "linkId": "1719912127549931520",
-      "smoothness": "正常",
+      "smoothness": "畅通",
       "entryAndExitJson": "[{\"name\":\"深圳湾口岸旅检楼入境出口通道（入境人流动线）\",\"code\":\"11cd31e4b43b45b2b03f0bf89baf4bc9\",\"type\":\"2\"},{\"name\":\"深圳湾口岸旅检楼出境一层斜坡通道（出境人流动线）\",\"code\":\"be9994224b8947d9a0a711f153fad249\",\"type\":\"1\"},{\"name\":\"深圳湾口岸旅检下客区（入境小车流动线）\",\"code\":\"00e73a44e59644f79b552fd302ff7089\",\"type\":\"2\"},{\"name\":\"深圳湾口岸旅检港方通道（出境小车流动线）\",\"code\":\"6e0829c5808e4437b69bd7ece3d51cc6\",\"type\":\"1\"}]",
       "exit": "畅通",
-      "entry": "正常",
+      "entry": "畅通",
       "exitClearanceTime": "8分钟",
-      "entryClearanceTime": "12分钟",
+      "entryClearanceTime": "9分钟",
       "portServiceVos": [
         {
           "id": "1727138581215969280",
@@ -2800,8 +2800,8 @@
       "entryAndExitJson": "[{\"name\":\"西九龙站口岸B3层入境公众大厅（入境人流动线） \",\"code\":\"6d7639c36444407e8067d49fffc23434\",\"type\":\"2\"},{\"name\":\"西九龙站口岸入境公众大厅（入境人流动线）\",\"code\":\"3b7ea92aebde46b8a2fa358452cc28d4\",\"type\":\"2\"},{\"name\":\"西九龙站口岸B2层出境公众大厅（出境人流动线）  \",\"code\":\"fda4ef387005489595b885777e93df4a\",\"type\":\"1\"}]",
       "exit": "畅通",
       "entry": "畅通",
-      "exitClearanceTime": "5分钟44秒",
-      "entryClearanceTime": "10分钟48秒",
+      "exitClearanceTime": "8分钟42秒",
+      "entryClearanceTime": "13分钟52秒",
       "portServiceVos": [
         {
           "id": "1727139360194691072",

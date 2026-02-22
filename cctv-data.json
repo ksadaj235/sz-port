@@ -30,7 +30,7 @@
         "name": "罗湖口岸旅检楼出境2楼罗湖商业桥通道（出境人流动线）",
         "code": "a8bbff95ac174b2ea6c243421e4ed0f2",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/a8bbff95ac174b2ea6c243421e4ed0f2-20260222194028.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/a8bbff95ac174b2ea6c243421e4ed0f2-20260222195428.png"
       }
     ]
   },
@@ -123,13 +123,13 @@
         "name": "深圳湾口岸旅检楼入境出口通道（入境人流动线）",
         "code": "11cd31e4b43b45b2b03f0bf89baf4bc9",
         "type": "入境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/11cd31e4b43b45b2b03f0bf89baf4bc9-20260222194025.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/11cd31e4b43b45b2b03f0bf89baf4bc9-20260222195425.png"
       },
       {
         "name": "深圳湾口岸旅检楼出境一层斜坡通道（出境人流动线）",
         "code": "be9994224b8947d9a0a711f153fad249",
         "type": "出境",
-        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/be9994224b8947d9a0a711f153fad249-20260222194026.png"
+        "imageUrl": "https://i.ka.sz.gov.cn/ika-api/open/port/monitor/pic/be9994224b8947d9a0a711f153fad249-20260222195425.png"
       },
       {
         "name": "深圳湾口岸旅检下客区（入境小车流动线）",
@@ -262,8 +262,8 @@
     "smoothness": "畅通",
     "exit": "畅通",
     "entry": "畅通",
-    "exitClearanceTime": "6分钟17秒",
-    "entryClearanceTime": "13分钟34秒",
+    "exitClearanceTime": "9分钟42秒",
+    "entryClearanceTime": "11分钟22秒",
     "cameras": [
       {
         "name": "西九龙站口岸B3层入境公众大厅（入境人流动线） ",
